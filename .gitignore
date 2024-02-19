@@ -1,0 +1,23 @@
+# python environment specific
+*.pyc
+.idea/*
+
+# jupyter related
+.ipynb_checkpoints/*
+evaluation/.ipynb_checkpoints/*
+evaluation/__pycache__/*
+helper/.ipynb_checkpoints/*
+helper/__pycache__/*
+UE5_parsers/.ipynb_checkpoints/*
+
+# external files
+Content/Internal/MaterialGeneration/Materials/
+Content/Internal/effects/
+Content/Megascans/
+Content/Subjects/
+Content/HDRI/
+
+# local files
+Intermediate/
+Saved/
+DerivedDataCache/
